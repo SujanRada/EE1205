@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {I}Digital Filter}{1}{section.1}%
+\contentsline {section}{\numberline {II}Difference Equation}{2}{section.2}%
+\contentsline {section}{\numberline {III}Z-Transform}{2}{section.3}%
+\contentsline {section}{\numberline {IV}Impulse Response}{3}{section.4}%
+\contentsline {section}{\numberline {V}DFT and FFT}{5}{section.5}%
+\contentsline {section}{\numberline {VI}\underline {EXERCISES}}{6}{section.6}%
